@@ -45,4 +45,4 @@ Este repositório contém o projeto desenvolvido durante o desafio da **DIO (Dig
 ### 🔗 Link do projeto pronto
 
 [🔊 Ouça o podcast aqui](https://linkdopodcast.com)  
-*(Substitua pelo link real do seu projeto quando estiver disponível)*
+*(https://spotifycreators-web.app.link/e/addZmG0zoTb)*
